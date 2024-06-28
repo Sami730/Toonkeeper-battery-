@@ -8,6 +8,16 @@ Key Features
 Gasless Payments and Swaps: Execute transactions for USDT, Notcoin, and other tokens without worrying about gas fees.
 NFT Transfers: Seamlessly transfer your NFTs to other users or wallets.
 Funding: Fund your account using in-app purchases or cryptocurrency deposits.
+Use Cases
+Gasless Payments and Swaps
+With Tonkeeper Battery, you can send and receive USDT, Notcoin, and other tokens without incurring gas fees. This feature is perfect for users who want to maximize the value of their transactions without worrying about additional costs.
+
+NFT Transfers
+Tonkeeper Battery simplifies the process of transferring NFTs. Whether you're an artist looking to distribute your work or a collector wanting to trade, our gasless NFT transfer feature makes it easy and cost-effective.
+
+Funding Your Account
+Funding your Tonkeeper account has never been easier. You can choose to fund it through in-app purchases or by depositing cryptocurrency directly. This flexibility ensures that you can always maintain the balance you need for your transactions.
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
